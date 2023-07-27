@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T22:34:52.751Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="g3khFdwT1WvtB-nFcCf9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T22:53:05.428Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nU-VyeWUkfzB6_Khn2HP" version="21.6.5" type="github">
   <diagram name="Page-1" id="xHoJqprVVUahzgXB5t3A">
-    <mxGraphModel>
+    <mxGraphModel dx="607" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MJRBo0qhkyK9fX0G-ZfJ-1" target="MJRBo0qhkyK9fX0G-ZfJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="450" />
+              <mxPoint x="330" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-1" value="" style="shape=mxgraph.electrical.electro-mechanical.motor_2;html=1;shadow=0;dashed=0;align=center;fontSize=30;strokeWidth=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MJRBo0qhkyK9fX0G-ZfJ-2" target="MJRBo0qhkyK9fX0G-ZfJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="266.97" as="targetPoint" />
+            <mxPoint x="525" y="266.97" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="260" width="100" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MJRBo0qhkyK9fX0G-ZfJ-3" target="MJRBo0qhkyK9fX0G-ZfJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="380" as="sourcePoint" />
+            <mxPoint x="680" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-17" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;\(\theta\)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="\(\theta\)" placeholders="1" name="Variable" id="MJRBo0qhkyK9fX0G-ZfJ-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="450" y="370" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
