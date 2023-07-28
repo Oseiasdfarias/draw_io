@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T02:06:38.058Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Wu28V8Q2orzrVDEzegQl" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T02:06:59.176Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jmFbYhgnKzewuD796Sxp" version="21.6.5" type="github">
   <diagram name="Page-1" id="xHoJqprVVUahzgXB5t3A">
     <mxGraphModel dx="680" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="150" math="1" shadow="0">
       <root>
@@ -64,8 +64,8 @@
             <mxGeometry x="260" y="235" width="50" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;\(R_a\)&lt;/font&gt;" placeholders="1" name="Variable" id="MJRBo0qhkyK9fX0G-ZfJ-23">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" parent="1" vertex="1">
+        <UserObject label="\(R_a\)" placeholders="1" name="Variable" id="MJRBo0qhkyK9fX0G-ZfJ-23">
+          <mxCell style="text;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;html=1;fontSize=19;" parent="1" vertex="1">
             <mxGeometry x="615" y="240" width="50" height="30" as="geometry" />
           </mxCell>
         </UserObject>
