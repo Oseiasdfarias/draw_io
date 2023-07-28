@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T04:09:35.980Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="og3tyW96CRvuquewZ0bO" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T04:09:46.441Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nEXYPOCfjYS_1Xi7YyJR" version="21.6.5" type="github">
   <diagram name="Page-1" id="xHoJqprVVUahzgXB5t3A">
-    <mxGraphModel dx="440" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="1" shadow="0">
+    <mxGraphModel dx="255" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Jah6KSldDa7oSD2TOF_-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;strokeColor=default;rotation=90;fontColor=default;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="858.5" y="131" width="75" height="33.5" as="geometry" />
+          <mxGeometry x="858.5" y="136.5" width="75" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-1" value="" style="shape=mxgraph.electrical.electro-mechanical.motor_2;html=1;shadow=0;dashed=0;align=center;fontSize=30;strokeWidth=2;rotation=90;fillColor=none;strokeColor=default;fillStyle=solid;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="846" y="224" width="100" height="60" as="geometry" />
