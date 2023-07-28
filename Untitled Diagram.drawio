@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T04:24:57.885Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ttOZqHTfTzAv1ftrFzon" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T04:26:37.614Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4eMwubgpjZ5Oe4E4jAYL" version="21.6.5" type="github">
   <diagram name="Page-1" id="xHoJqprVVUahzgXB5t3A">
     <mxGraphModel dx="607" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="330" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-1" value="" style="shape=mxgraph.electrical.electro-mechanical.motor_2;html=1;shadow=0;dashed=0;align=center;fontSize=30;strokeWidth=1;rotation=90;fillColor=default;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;gradientColor=#333333;gradientDirection=north;opacity=80;" parent="1" vertex="1">
+        <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-1" value="" style="shape=mxgraph.electrical.electro-mechanical.motor_2;html=1;shadow=0;dashed=0;align=center;fontSize=30;strokeWidth=1;rotation=90;fillColor=default;strokeColor=default;fontColor=#333333;labelBackgroundColor=none;gradientColor=#E8E8E8;gradientDirection=north;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="585" y="347.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MJRBo0qhkyK9fX0G-ZfJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=default;labelBackgroundColor=none;strokeWidth=1;endArrow=none;endFill=0;opacity=80;" parent="1" source="MJRBo0qhkyK9fX0G-ZfJ-2" target="MJRBo0qhkyK9fX0G-ZfJ-1" edge="1">
